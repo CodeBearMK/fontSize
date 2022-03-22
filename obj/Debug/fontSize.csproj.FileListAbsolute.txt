@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\fontSize\bin\Debug\fontSize.exe.config
+D:\cat32tw\Desktop\fontSize\bin\Debug\fontSize.exe
+D:\cat32tw\Desktop\fontSize\bin\Debug\fontSize.pdb
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.Form1.resources
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.Properties.Resources.resources
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.exe
+D:\cat32tw\Desktop\fontSize\obj\Debug\fontSize.pdb
